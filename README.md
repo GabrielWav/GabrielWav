@@ -6,5 +6,5 @@
 - 📫 Recentemente estou estudando Linguagem de programação Scratch
 
 ![Phyton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Scratch](
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 ![HTML](
